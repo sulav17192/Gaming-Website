@@ -1,1 +1,2 @@
 # Gaming-Website
+This website showcase the overview of the game Brawl Stars made by supercell. It is the popular game with multiplayer gaming experience. This website showcase the use of HTML and CSS to make intresting gaming website . This website shows several sections including home section, gallery sections etc. the website is purely made with HTML and CSS alongside with Pictures to enhance the quality.
